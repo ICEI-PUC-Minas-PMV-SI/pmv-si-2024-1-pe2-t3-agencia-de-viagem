@@ -1,4 +1,4 @@
-# Agência de viagens online - Mundo Sem Fronteiras
+# Agência de viagem - Mundo Sem Fronteiras
 
 `CURSO: Sistemas de Informação`
 
