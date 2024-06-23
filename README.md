@@ -1,16 +1,14 @@
 # Nome do projeto
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+O foco central do projeto é a análise dos processos vingentes na agência e posteriormente a implementação das automatizações e modelagens necessárias para sanar as principais deficiências encontradas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Victor Hugo Gulino dos Santos
+* Marcus Vinicius Mendes dos Santos
+* Luigi Rodrigo dos Santos de Moura
+* Gabriel Freitas Cambraia
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni de Carvalho
