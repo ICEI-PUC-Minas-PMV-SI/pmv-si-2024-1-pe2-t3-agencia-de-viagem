@@ -1,6 +1,7 @@
 # Nome do projeto
 
-O foco central do projeto é a análise dos processos vingentes na agência e posteriormente a implementação das automatizações e modelagens necessárias para sanar as principais deficiências encontradas.
+O foco central do projeto é a análise dos processos vingentes na agência e posteriormente a implementação das automatizações e modelagens necessárias para sanar as principais deficiências encontradas. A solução implementada visa desburocratizar processos que eram lentos e complexos, além da automatização dos processos repetitivos elevando o nível de competitividade e eficiência da organização.
+
 
 ## Integrantes
 
