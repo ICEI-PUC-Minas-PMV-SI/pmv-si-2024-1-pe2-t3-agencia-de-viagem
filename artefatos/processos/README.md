@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* Cadastro Automatizado - lrsmoura.bpmn - Processo de login.
-* Gerenciamento de pacotes - lrsmoura.bpmn - Processo de agendamento.
-* Vendas Online - lrsmoura.bpmn - Processo de entrega.
+* Gerenciar turistas.png - Processo de gerenciamento de turistas.
+* Gerenciamento de pacotes.png - Processo de gerenciamento de pacotes.
+* Vendas Online.png - Processo de vendas.
 
 
