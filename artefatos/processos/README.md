@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* Cadastro Automatizado - lrsmoura.bpmn - Processo de login.
+* Gerenciamento de pacotes - lrsmoura.bpmn - Processo de agendamento.
+* Vendas Online - lrsmoura.bpmn - Processo de entrega.
 
 
